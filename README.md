@@ -1,7 +1,7 @@
-# KolamCraft Platform Design
-
-This is a code bundle for KolamCraft Platform Design. The original project is available at https://www.figma.com/design/eDdwCKZWQ1SYwWfWEpSRSl/KolamCraft-Platform-Design.
-
+# KolamCraft
+Kolam Craft is an interactive web-based canvas designed for digitally creating Kolam, a traditional Indian geometric art form. It functions as a creative tool that blends ancient artistic traditions with modern web technology to make this intricate art accessible and help preserve South Asian heritage. The platform enables users to design complex, symmetrical patterns and then personalize, export, or share their creations. Visit Kolam Craft for more information.
+# Live project link
+[Visit the site](https://kolamcraft.netlify.app/)
 ## Features
 
 - **Authentication**: Sign in/sign up with username-only (mock) or email/password (Supabase)
